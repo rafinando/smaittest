@@ -153,7 +153,7 @@ body{
   }
 
 .textsize{
-    font-size: clamp(1.8rem, 2.5vw, 5rem) ;
+    font-size: clamp(1.8rem, 2vw, 5rem) ;
 }
   
   /* Responsif kecil */
@@ -161,4 +161,5 @@ body{
     .swiper{ height: 46vh; border-radius: 12px; }
     .swiper-slide{ font-size:22px; }
   }
+
   
